@@ -1,0 +1,71 @@
+---
+layout: post
+title: "Intro"
+date: 2014-03-21 15:21:47 -0300
+author: Leonardo Baptista
+comments: true
+categories:
+---
+
+<a href="#en" class="english-button">You can read in English</a>
+/
+<a href="#pt" class="portuguese-button">Você pode preferir ler em Português</a>
+
+<div class="english" markdown="1">
+Hi everyone!
+
+Today is a very happy day. I am glad to start showing what we are developing
+since two months ago.
+
+###First of all, what is Ruppy?
+
+Ruppy is me (Leo) and Glaucia. It's the union of a dev with an artist, who are
+entering on this game dev world. We have this idea since 2012, but now we have
+the oportunity to make it right, spend more time, make prototypes, open a
+crowdfunding campaign on Indiegogo, raise funds and release our first game.
+
+###So, new games are coming?
+
+Yes! We'll release the game that started the idea of ​​opening Ruppy. It is called
+Toledo Going Nuts. I will talk about it on next post, but here it is an image
+of the old concept art. Well, it is soo much different now, I can't wait to show
+you.
+
+![Toledo old concept](/assets/posts/toledo-old-concept.jpg)
+
+###What to expect about this blog?
+
+We are going to post our adventures on this new world, what is working, what is
+not, skecthes, draws, concepts and a lot of work in progress. And we are going
+to ask your opinions A LOT. Please give us your feedback!
+</div>
+
+<div class="portuguese" markdown="1">
+Olá pessoal,
+
+Hoje é um dia muito feliz. Hoje vou começar a mostrar o que estamos fazendo há
+dois meses.
+
+###Primeiro de tudo, O que é a Ruppy?
+
+Ruppy sou eu (Leo) e a Glaucia. É a união de um programador com uma artista, que
+estão começando a entrar nesse mundo de jogos. Nós começamos com essa idéia há
+mais ou menos dois anos, mas agora surgiu uma oportunidade de fazer isso
+direito, de dedicar mais tempo, de prototipar, abrir uma campanha no Indiegogo,
+arrecadar fundos e lançar nosso primeiro jogo.
+
+###Oba, então vem jogo novo por aí?
+
+Sim! Nós vamos lançar o jogo que começou a idéia de abrir a Ruppy. Ele chama
+Toledo Going Nuts. Vou falar dele melhor no próximo post, mas vou deixar uma
+imagem de como imaginávamos ele há dois anos. Um dica, hoje está bem diferente
+disso!
+
+![Toledo old concept](/assets/posts/toledo-old-concept.jpg)
+
+###O que esperar aqui do blog?
+
+Nós vamos postar nossas aventuras nesse mundo novo, o que deu certo, o que deu
+errado, skecthes, desenhos e muito trabalho em desenvolvimento. E vamos pedir
+muito a opinião de vocês. Nos falem o que estão achando, queremos muito ouvir!
+</div>

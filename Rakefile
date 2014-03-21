@@ -146,6 +146,14 @@ task :new_page, :filename do |t, args|
   end
 end
 
+task :to_site do
+  # Dir.glob("#{public_dir}/*.*") do |file|
+  #   FileUtils.cp file, '../ruppy.github.io/'
+  # end
+  FileUtils.rm_rf '../ruppy.github.io/blog', :verbose => true
+  FileUtils.cp_r(Dir.glob("#{public_dir}/*"), '../ruppy.github.io/')
+end
+
 # usage rake isolate[my-post]
 desc "Move all other posts than the one currently being worked on to a temporary stash location (stash) so regenerating the site happens much more quickly."
 task :isolate, :filename do |t, args|

@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Test post2"
+date: 2014-03-21 10:03:55 -0300
+comments: true
+author: Leonardo Baptista
+categories:
+  - Test
+  - Ruppy
+  - Toledo Going Nuts
+---
+
+This is just a hello world to see in action.
+
+Hello World
+===========
+
+Teste sub header
+----------------
+
+images
+
+![just a image](/images/background.jpg)
+
+Hello world is a test just to see that everything it is right.

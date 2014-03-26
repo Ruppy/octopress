@@ -5,6 +5,11 @@ date: 2014-03-21 15:21:47 -0300
 author: Leonardo Baptista
 comments: true
 categories:
+
+description: "What is Ruppy Studio"
+keywords: "Ruppy Studio, indie, game, developer"
+image: "http://ruppy.com.br/assets/posts/toledo-old-concept.jpg"
+facebook_author: "https://www.facebook.com/leonardoobaptistaa"
 ---
 
 <a href="#en" class="english-button">You can read in English</a>

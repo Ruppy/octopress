@@ -4,6 +4,7 @@ title: "First sketch of Toledo"
 date: 2014-03-27 12:01:42 -0300
 comments: true
 categories: [Toledo Going Nuts, Work in Progress]
+author: Glaucia Souza
 
 description: "The first thoughts about Toledo."
 keywords: "Toledo Going Nuts, toledo, ios, game, mobile, android, 3rd, person, shooter"

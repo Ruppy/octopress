@@ -7,10 +7,9 @@ categories: [Toledo Going Nuts, Marketing]
 
 author: Leonardo Baptista
 
-description: "We are posting some early development screenshots. We decided to change the
-  camera type from perspective to ortographic. What do you think?"
-keywords: "Toledo Going Nuts, toledo, ios, game, mobile, android, 3rd, person, shooter, sketch, work in progress"
-image: "http://ruppy.com.br/assets/posts/touch-to-play-ss.jpg"
+description: "Just to let you know that we created a Indiedb page. And guess what! Our rank is 209 of 16,037 games!"
+keywords: "Toledo Going Nuts, toledo, ios, game, mobile, android, 3rd, person, shooter, sketch, work in progress, indiedb"
+image: "http://button.indiedb.com/popularity/medium/games/31503.png"
 facebook_author: "https://www.facebook.com/leonardoobaptistaa"
 ---
 
